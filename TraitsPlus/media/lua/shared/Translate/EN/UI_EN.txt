@@ -1,0 +1,8 @@
+UI_EN = {
+	UI_trait_blademaster = "Blade Master",
+	UI_trait_blademasterdesc = "You handle a blade as if it is an extension of yourself.",
+	UI_trait_freerunner = "Free Runner",
+	UI_trait_freerunnerdesc ="You move with the agility of a rabbit. #Hardcore Parkour",
+	UI_trait_kinemortophobia = "Kinemortophobia",
+	UI_trait_kinemortophobiadesc = "You have always been afraid of zombies, but now that fear has come to life! (Panic easily around the dead)"
+}
